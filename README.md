@@ -30,26 +30,12 @@ Aspiring Data Analyst with a strong foundation in SQL, Python, and Machine learn
 
 ## Projects
 
-**Prescription Parser** 
-George Brown College • March 2023 - March 2023
-- Developed and implemented an NLP-based prescription parser model using Bi-LSTM-CRF architecture to extract medication information from prescription documents with an 86.7% accuracy rate.
-- Preprocessed and cleaned a large dataset of 10,000 prescription documents using Python and NLTK to ensure high-quality model training and evaluation.
-- Technologies used: Jupyter, Python.
-- Libraries used: nltk, spacy, scikit learn.
+[**Prescription Parser**](https://github.com/noohfaisal/Projects/tree/main/Real-Time%20Face%20Cartoonification) 
 
-**Real-Time Face Cartoonification**
-George Brown College • February 2023- February 2023
-- Detected and extracted facial features from real-time video frames using OpenCV's pre-trained Haar Cascade classifier.
-- Achieved cartoonification effect by overlaying a custom cartoon mask onto the detected face region using OpenCV's bitwise and operation.
-- Technology used: Jupyter, Python.
-- Libraries used: os, cv2.
+[**Real-Time Face Cartoonification**](https://github.com/noohfaisal/Projects/tree/main/Real-Time%20Face%20Cartoonification)
 
-**Employee Future Prediction**
-George Brown College • January 2023 - January 2023
-- Machine learning model that predicts employee turnover with an accuracy of 85.24% based on job role, tenure, experience, and education, enabling the company to take proactive measures to improve employee retention.
-- The project involved a certain dataset of a company comprising of 4500 individuals.
-- Technology used: Python, Google Collab.
-- Libraries used: Pandas, Numpy, Scikit learn.
+
+
 
 
 

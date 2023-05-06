@@ -4,7 +4,7 @@
 
 - Email: noohfaisal@gmail.com 
 - Phone: +1 4375599904 
-- LinkedIn: linkedin.com/in/nooh-faisal-b04b1b193 
+- LinkedIn: https://www.linkedin.com/in/nooh-faisal-b04b1b193 
 
 ## Summary
 
@@ -30,16 +30,7 @@ Aspiring Data Analyst with a strong foundation in SQL, Python, and Machine learn
 
 ## Projects
 
-**Flight Delay Analytics**
-George Brown College • April 2023 - April 2023
-- Created a story in Tableau that explores flight delays across 50 major US airports.
-- Analyzed and cleaned a large dataset of over 140000 flight delay data from the Bureau of Transportation Statistics.
-- Used 15 data visualization techniques to create a compelling narrative that tells the story of flight delays.
-- Explored different dimensions of the data to uncover insights about the factors that contribute to delays.
-- Incorporated a variety of charts and graphs to illustrate the patterns and trends in the data.
-- Concluded the story with a clear and actionable message based on the insights uncovered.
-
-**Prescription Parser**
+**Prescription Parser** 
 George Brown College • March 2023 - March 2023
 - Developed and implemented an NLP-based prescription parser model using Bi-LSTM-CRF architecture to extract medication information from prescription documents with an 86.7% accuracy rate.
 - Preprocessed and cleaned a large dataset of 10,000 prescription documents using Python and NLTK to ensure high-quality model training and evaluation.

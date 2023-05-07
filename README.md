@@ -34,7 +34,7 @@ Aspiring Data Analyst with a strong foundation in SQL, Python, and Machine learn
 
 [**Real-Time Face Cartoonification**](https://github.com/noohfaisal/Projects/tree/main/Real-Time%20Face%20Cartoonification)
 
-[**Employee Future Prediction**](https://github.com/noohfaisal/Projects/tree/main/Real-Time%20Face%20Cartoonification)
+[**Employee Future Prediction**](https://github.com/noohfaisal/Projects/tree/main/Employee%20Future%20Prediction)
 
 
 

@@ -26,7 +26,7 @@ You can install these packages using `pip`. For example, `pip install pydub`.
    audiofile = AudioSegment.from_file("your_audio_file.mp3")
    ```
 
-3. Run the ipynb file. The processed audio file will be saved in the same directory with the name `obama_processed.wav`.
+3. Run the ipynb file. The processed audio file will be saved in the same directory with the name `your_audio_file_processed.wav`.
 
 4. For reference, i have added a sample audio file in the directory. 
 

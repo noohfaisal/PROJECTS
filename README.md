@@ -36,7 +36,7 @@ Aspiring Data Analyst with a strong foundation in SQL, Python, and Machine learn
 
 [**Employee Future Prediction**](https://github.com/noohfaisal/Projects/tree/main/Employee%20Future%20Prediction)
 
-
+[**Audio Processing**](https://github.com/noohfaisal/Projects/tree/main/Audio_Processing)
 
 
 

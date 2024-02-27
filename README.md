@@ -3,24 +3,24 @@
 # Nooh Faisal
 
 - Email: noohfaisal@gmail.com 
-- Phone: +1 4375599904 
+- Phone: +971 561703377
 - LinkedIn: https://www.linkedin.com/in/nooh-faisal-b04b1b193 
 
 ## Summary
 
-Aspiring Data Analyst with a strong foundation in SQL, Python, and Machine learning seeking opportunities to apply skills and drive business value through data-driven insights.
+Experienced Data Scientist with a solid foundation in SQL, Python, Machine learning, and AI technologies. Skilled in analyzing complex datasets, developing AI-driven solutions, and delivering actionable insights. Proven track record in healthcare and technology sectors with a commitment to leveraging data science for innovative problem-solving. Seeking to leverage my data science capabilities in a dynamic environment to drive business development through strategic data analysis.
 
 ## Experience
 
-**Data Analyst Intern**
-- Identified relevant data sources and collected data from a variety of sources, such as databases and spreadsheets.
-- Monitored server performance and uptime for 99% of the time, ensuring high availability of data and minimizing downtime.
-- Set up automated data integration processes that saved 8 hours of manual work per week.
-- Implemented 20 triggers and stored procedures to maintain audit logs.
-- Utilized data visualization tools to effectively communicate business insights to stakeholders.
-- Technologies used: MS SQL, GCP, Google Sheets, Google Data Studio.
+**Research and Development Associate**
+**Pendium Health** **(January 2023 - December 2023, Ontario, Canada)**                    
+- Spearheaded the enhancement of chat functionalities using state-of-the-art retrieval-augmented generation techniques, boosting efficiency by 25%.
+- Innovated a patient drug information generator, significantly enhancing physician-patient engagement.
+- Expanded the database by 40% within two months by harnessing APIs for data aggregation effectively.
+- Technologies: Python, Git, Langchain, OpenAI, Pinecone, LLM.
 
-**Front End Development Intern**
+**Data Analyst**
+**Cargo Mate** **(October 2021 - October 2022, Abu Dhabi, UAE)**  
 - Successfully implemented responsive design techniques resulting in a 40% increase in mobile user engagement.
 - Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.
 - Testing and debugging code to ensure it is functional and meets the requirements.

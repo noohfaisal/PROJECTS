@@ -8,22 +8,30 @@
 
 ## Summary
 
-Experienced Data Scientist with a solid foundation in SQL, Python, Machine learning, and AI technologies. Skilled in analyzing complex datasets, developing AI-driven solutions, and delivering actionable insights. Proven track record in healthcare and technology sectors with a commitment to leveraging data science for innovative problem-solving. Seeking to leverage my data science capabilities in a dynamic environment to drive business development through strategic data analysis.
+Experienced Data Scientist with over three years of expertise in data analysis, machine learning, and statistical modeling, proficient in Python, SQL, and AI technologies. Skilled in applying advanced data science techniques to foster business continuity, drive digital transformation, and enhance operational efficiency across healthcare, retail, and technology sectors. Committed to transforming complex data sets into actionable insights and innovative solutions through strategic planning and execution.
 
 ## Experience
 
 **Research and Development Associate**
 **Pendium Health** **(January 2023 - December 2023, Ontario, Canada)**                    
-- Spearheaded the enhancement of chat functionalities using state-of-the-art retrieval-augmented generation techniques, boosting efficiency by 25%.
-- Innovated a patient drug information generator, significantly enhancing physician-patient engagement.
-- Expanded the database by 40% within two months by harnessing APIs for data aggregation effectively.
+- Engineered and refined data pipelines for efficient preprocessing and storage by extracting data from public APIs, transforming, and optimizing it for storage in a vector database (Pinecone), expanding the database by 40% in two months.
+- Enhanced chat functionalities using retrieval-augmented generation techniques, increasing efficiency by 25%.
+- Developed a software feature that generates detailed consumer information during medication prescription, enhancing client interactions and increasing website usage by 35%.
 - Technologies: Python, Git, Langchain, OpenAI, Pinecone, LLM.
 
 **Data Analyst**
-**Cargo Mate** **(October 2021 - October 2022, Abu Dhabi, UAE)**  
-- Drove data collection and analysis, ensuring 99% uptime of SQL Server Databases and optimizing performance.
-- Automated data integration, saving over 8 hours per week, and implemented audit log processes.
-- Enhanced stakeholder communication through insightful data visualizations.
+**Docker Group** **(January 2021 - November 2022, Dubai, UAE)**  
+- Conducted exploratory data analysis on sales data to detect trends, driving a 10% growth in monthly revenue.
+- Built predictive model for sales forecasting using regression analysis, improving prediction accuracy by 15%.
+- Visualized sales and products popularity data using Tableau, supporting stakeholders in decision-making that increased product availability by 20% and improved customer satisfaction.
+- Oversaw inventory management, achieving a 25% optimization in stock levels and a 30% improvement in stock turnover through precise data analysis.
+- Technologies: Python, Microsoft Excel, MS SQL, Tableau.
+
+**Data Analyst**
+**Cargo Mate** **(October 2021 - October 2022, Saudi Arabia (remote))**  
+- Managed data collection and analysis, maintaining 99% uptime for SQL Server Databases and optimizing performance.
+- Streamlined data integration processes without comprising data privacy, saving over 8 hours per week.
+- Produced data visualizations to enhance stakeholder communication using Google Data Studio.
 - Technologies: MS SQL, BigQuery, GCP, Google Sheets, Google Data Studio.
 
 ## Projects

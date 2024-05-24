@@ -20,7 +20,7 @@ Experienced Data Scientist with over three years of expertise in data analysis, 
 - Technologies: Python, Git, Langchain, OpenAI, Pinecone, LLM.
 
 **Data Analyst**
-**Docker Group** **(January 2021 - November 2022, Dubai, UAE)**  
+**Docker Group** **(January 2020 - November 2022, Dubai, UAE)**  
 - Conducted exploratory data analysis on sales data to detect trends, driving a 10% growth in monthly revenue.
 - Built predictive model for sales forecasting using regression analysis, improving prediction accuracy by 15%.
 - Visualized sales and products popularity data using Tableau, supporting stakeholders in decision-making that increased product availability by 20% and improved customer satisfaction.
